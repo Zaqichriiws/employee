@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "firstName": "James",
-    "lastName": "King",
+    "firstName": "Jami",
+    "lastName": "Kin",
     "pic": "1.jpg",
     "managerId": 0,
     "title": "President and CEO",
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "firstName": "Julie",
-    "lastName": "Taylor",
+    "lastName": "Tay",
     "pic": "2.jpg",
     "managerId": 1,
     "title": "VP of Marketing",
@@ -29,8 +29,8 @@
   },
   {
     "id": 3,
-    "firstName": "Eugene",
-    "lastName": "Lee",
+    "firstName": "Tammy",
+    "lastName": "Leiya",
     "pic": "3.jpg",
     "managerId": 1,
     "title": "CFO",
@@ -43,8 +43,8 @@
   },
   {
     "id": 4,
-    "firstName": "John",
-    "lastName": "Williams",
+    "firstName": "Jonson",
+    "lastName": "Will",
     "pic": "4.jpg",
     "managerId": 1,
     "title": "VP of Engineering",
@@ -57,8 +57,8 @@
   },
   {
     "id": 5,
-    "firstName": "Ray",
-    "lastName": "Moore",
+    "firstName": "Raymy",
+    "lastName": "Moorey",
     "pic": "5.jpg",
     "managerId": 1,
     "title": "VP of Sales",
@@ -71,8 +71,8 @@
   },
   {
     "id": 6,
-    "firstName": "Paul",
-    "lastName": "Jones",
+    "firstName": "Paullar",
+    "lastName": "Jonesey",
     "pic": "6.jpg",
     "managerId": 4,
     "title": "QA Manager",
@@ -85,7 +85,7 @@
   },
   {
     "id": 7,
-    "firstName": "Paula",
+    "firstName": "Paularre",
     "lastName": "Gates",
     "pic": "7.jpg",
     "managerId": 4,
@@ -99,7 +99,7 @@
   },
   {
     "id": 8,
-    "firstName": "Lisa",
+    "firstName": "Lisaney",
     "lastName": "Wong",
     "pic": "8.jpg",
     "managerId": 2,
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "firstName": "Gary",
+    "firstName": "Garycy",
     "lastName": "Donovan",
     "pic": "9.jpg",
     "managerId": 2,
