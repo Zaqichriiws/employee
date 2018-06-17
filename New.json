@@ -139,32 +139,4 @@
     "city": "Boston, MA",
     "picture": "10.jpg"
   },
-  {
-    "id": 11,
-    "firstName": "Amy",
-    "lastName": "Jones",
-    "pic": "amy_jones.jpg",
-    "managerId": 5,
-    "title": "Sales Representative",
-    "department": "Sales",
-    "officePhone": "617-000-0011",
-    "cellPhone": "781-000-0011",
-    "email": "ajones@fakemail.com",
-    "city": "Boston, MA",
-    "picture": "amy_jones.jpg"
-  },
-  {
-    "id": 12,
-    "firstName": "Steven",
-    "lastName": "Wells",
-    "pic": "steven_wells.jpg",
-    "managerId": 4,
-    "title": "Software Architect",
-    "department": "Engineering",
-    "officePhone": "617-000-0012",
-    "cellPhone": "781-000-0012",
-    "email": "swells@fakemail.com",
-    "city": "Boston, MA",
-    "picture": "steven_wells.jpg"
-  }
-]
+ 
